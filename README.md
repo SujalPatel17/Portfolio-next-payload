@@ -106,16 +106,6 @@ Open [http://localhost:3000/admin](http://localhost:3000/admin) to access the CM
 | Global | `hero` | Hero section: name, bio, roles, social links, resume |
 | Global | `site-settings` | Site title and meta description |
 
----
-
-## Seed Data
-
-To seed initial skills and globals into the database:
-
-```bash
-node scripts/seed-skills.mjs
-node scripts/seed-globals.mjs
-```
 
 ---
 
